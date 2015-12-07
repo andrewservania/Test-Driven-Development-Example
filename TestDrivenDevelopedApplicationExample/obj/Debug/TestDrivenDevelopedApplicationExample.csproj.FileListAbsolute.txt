@@ -1,0 +1,6 @@
+C:\Users\Andrew\Documents\Test-Driven-Development-Example\TestDrivenDevelopedApplicationExample\bin\Debug\TestDrivenDevelopedApplicationExample.exe.config
+C:\Users\Andrew\Documents\Test-Driven-Development-Example\TestDrivenDevelopedApplicationExample\bin\Debug\TestDrivenDevelopedApplicationExample.exe
+C:\Users\Andrew\Documents\Test-Driven-Development-Example\TestDrivenDevelopedApplicationExample\bin\Debug\TestDrivenDevelopedApplicationExample.pdb
+C:\Users\Andrew\Documents\Test-Driven-Development-Example\TestDrivenDevelopedApplicationExample\obj\Debug\TestDrivenDevelopedApplicationExample.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Test-Driven-Development-Example\TestDrivenDevelopedApplicationExample\obj\Debug\TestDrivenDevelopedApplicationExample.exe
+C:\Users\Andrew\Documents\Test-Driven-Development-Example\TestDrivenDevelopedApplicationExample\obj\Debug\TestDrivenDevelopedApplicationExample.pdb

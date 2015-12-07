@@ -9,7 +9,7 @@ namespace UnitTestProject
     {
 
         /// <summary>
-        /// Test om te kijke of getallen goed opgeteld worden.
+        /// Test om te kijken of getallen goed opgeteld worden.
         /// Test-Driven Development (TDD):
         /// http://agiledata.org/essays/tdd.html
         /// </summary>
@@ -32,6 +32,18 @@ namespace UnitTestProject
             Assert.AreEqual(expectedResult, actualResult,
                 "Getallen worden niet goed opgeteld. De antwoord is niet het verwachte resultaat");
 
+
+        }
+
+
+        [TestMethod]
+        public void NumbersAreMutlipliedCorrectly()
+        {
+            int expected = 10;
+
+            int actual = new Multiplication().Multiply(2, 5);
+
+            Assert.AreEqual(expected, actual, "Number is not multiplied correctly");
 
         }
     }
